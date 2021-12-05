@@ -1,7 +1,7 @@
 ### Eaii, eu sou o Matheus Perillo
 
-- 🔭 Faço parte da EJ Orc'estra Gamificação
-- 🌱 Estudando ReactJS, NodeJS e Typescript
+- 🔭 I'm in EJ Orc'estra Gamificação
+- 🌱 Studing ReactJS, NodeJS and Typescript
 
 ##
 
