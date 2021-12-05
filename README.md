@@ -1,4 +1,4 @@
-### Eaii, eu sou o Matheus Perillo
+### Hi! I'm Matheus Perillo and I love to develop softwares
 
 - 🔭 I'm in EJ Orc'estra Gamificação
 - 🌱 Studing ReactJS, NodeJS and Typescript
