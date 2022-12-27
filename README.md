@@ -1,6 +1,6 @@
 ### Hi! I'm Matheus Perillo and I love to develop softwares
 
-- 🔭 I'm in EJ Orc'estra Gamificação
+- 🔭 I'm in Orion Engenharia as a intern development
 - 🌱 Studing ReactJS, NodeJS and Typescript
 
 ##
