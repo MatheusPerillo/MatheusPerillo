@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus Perillo and I love to develop softwares
 
-- 🔭 I'm in Orion Engenharia as a developer
-- 🌱 Studing ReactJS, NodeJS and Typescript
+- 🔭 I'm a junior fullstack developer
+- 🌱 Studing ReactJS, NodeJS, Typescript and Python
 
 ##
 
