@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus Perillo and I love to develop softwares
 
-- 🔭 I'm a junior fullstack developer
-- 🌱 Studing ReactJS, NodeJS, Typescript and Python
+- 🔭 I'm a fullstack developer
+- 🌱 Studing and practicing with ReactJS, NodeJS, Typescript and Python
 
 ##
 
